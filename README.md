@@ -6,7 +6,7 @@ Este programa em C implementa uma pilha de livros. Aqui está um resumo do que o
 2. Exibe um menu para o usuário com as seguintes opções:
    - **Opção 1**: Permite ao usuário inserir um livro na pilha. O usuário digita o título do livro e este é adicionado à pilha.
    - **Opção 2**: Remove o livro do topo da pilha e exibe o título do livro removido.
-   - **Opção 3**: Imprime todos os livros na pilha.
+   - **Opção 3**: Imprime o livros no topo pilha.
    - **Opção 4**: Encerra o programa.
 3. Após a escolha do usuário, a ação correspondente é executada.
 4. Este processo continua até que o usuário escolha a opção 4 para encerrar o programa.
